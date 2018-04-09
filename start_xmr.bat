@@ -1,0 +1,1 @@
+NsCpuCNMiner64.exe -o stratum+ssl://xmr-eu1.nanopool.org:14433 -u 41dczdEcZuPakdbiJqVpjyHFRD6TVSyREcnKTAWduZn5Qg3jSWRY5dk1z4nHXEXzDLB73XRansgimVyztVbx2EPi8akAdej.dee24daf2579c08dafd143c4a9696db1e360a47d397c36ac4a4d19ef0dd6c8e0.ENIMUS/polukhinivan@gmail.com -p x
